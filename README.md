@@ -1,13 +1,13 @@
-<!-- MATRIX HACKER HEADER -->
+<!-- CYBER BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=240&section=header&text=DRKNETKING&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,100:000000&height=250&section=header&text=DRKNETKING&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- TYPING MATRIX -->
+<!-- TYPING ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=900&lines=Initializing+Developer+Profile...;Habib+Hasibuan;Full+Stack+Web+Developer;Cyber+Security+Enthusiast;Building+Modern+Web+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=30&center=true&vCenter=true&width=900&lines=Initializing+Developer+System...;Habib+Hasibuan;Full+Stack+Developer;Cyber+Security+Enthusiast;Building+Modern+Web+Projects"/>
 </p>
 
 ---
@@ -22,8 +22,8 @@ Username: DRKNETKING
 Role: Full Stack Web Developer
 Location: Indonesia
 Focus: Web Application Development
-Learning: React | Node.js | Tailwind CSS
-Status: Building & Learning
+Learning: React | Node.js | Tailwind
+Status: Active
 
 > PROFILE.END
 ```
@@ -33,9 +33,10 @@ Status: Building & Learning
 # 💻 Hacker Terminal
 
 ```bash
-> system.boot()
+> boot.system()
 
 Loading modules...
+
 ✔ HTML
 ✔ CSS
 ✔ JavaScript
@@ -43,26 +44,27 @@ Loading modules...
 ✔ NodeJS
 ✔ TailwindCSS
 ✔ Git
+✔ API Development
 
-System Ready 🚀
+System Online 🚀
 ```
 
 ---
 
-# 🧠 AI Neural Network
+# 🧠 AI Neural Network Status
 
 ```bash
-Neural Network Status
+Neural Engine
 
-Nodes Connected: ███████████ 100%
+Nodes Connected: ██████████████ 100%
 Learning Mode: ACTIVE
-Code Intelligence: ENABLED
-Project Builder: ONLINE
+AI Assistance: ENABLED
+Coding Mode: ONLINE
 ```
 
 ---
 
-# 🌍 3D Developer Globe
+# 🌍 Developer Dashboard
 
 <p align="center">
 
@@ -82,7 +84,7 @@ Project Builder: ONLINE
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -104,7 +106,7 @@ Project Builder: ONLINE
 
 ---
 
-# 📈 Contribution Activity
+# 📈 Contribution Activity Graph
 
 <p align="center">
 
@@ -147,12 +149,35 @@ Project Builder: ONLINE
 
 ---
 
+# 🧩 Featured Projects
+
+| Project                   | Description              |
+| ------------------------- | ------------------------ |
+| Web App Dashboard         | Modern admin dashboard   |
+| Top Up Game Website       | React + Tailwind UI      |
+| Employee Management       | Full stack web system    |
+| Parking Management System | Real-time parking system |
+
+---
+
+# 📡 Live Coding Status
+
+```bash
+Current Activity
+
+Building Web Applications
+Recording Programming Tutorials
+Exploring New Technologies
+```
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
 
 <a href="#">
-<img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube"/>
 </a>
 
 <a href="#">
@@ -179,14 +204,10 @@ Project Builder: ONLINE
 
 <p align="center">
 
-⚡ Code • Build • Learn • Innovate ⚡
+⚡ Code • Build • Innovate • Repeat ⚡
 
 </p>
 
-<!-- FOOTER -->
-
 <p align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=150&section=footer"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff9f&height=150&section=footer"/>
 </p>
