@@ -1,36 +1,38 @@
-<!-- MATRIX HACKER BANNER -->
+<!-- MATRIX HACKER HEADER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=220&section=header&text=DRKNETKING&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=240&section=header&text=DRKNETKING&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING MATRIX -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=Initializing+AI+Developer+Profile...;Habib+Hasibuan;Full+Stack+Web+Developer;Cyber+Security+Enthusiast;Building+Modern+Web+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=30&center=true&vCenter=true&width=900&lines=Initializing+Developer+Profile...;Habib+Hasibuan;Full+Stack+Web+Developer;Cyber+Security+Enthusiast;Building+Modern+Web+Projects"/>
 </p>
 
 ---
 
 # 🤖 AI Developer Profile
 
-```bash id="yd6uhs"
-> AI_PROFILE_START
+```bash
+> PROFILE.START
+
 Name: Habib Hasibuan
 Username: DRKNETKING
-Role: Full Stack Developer
+Role: Full Stack Web Developer
 Location: Indonesia
-Speciality: Web Applications
-Learning: React | Node | Tailwind
-Status: Building Projects
-> AI_PROFILE_END
+Focus: Web Application Development
+Learning: React | Node.js | Tailwind CSS
+Status: Building & Learning
+
+> PROFILE.END
 ```
 
 ---
 
 # 💻 Hacker Terminal
 
-```bash id="6q9xrf"
+```bash
 > system.boot()
 
 Loading modules...
@@ -40,9 +42,33 @@ Loading modules...
 ✔ React
 ✔ NodeJS
 ✔ TailwindCSS
+✔ Git
 
 System Ready 🚀
 ```
+
+---
+
+# 🧠 AI Neural Network
+
+```bash
+Neural Network Status
+
+Nodes Connected: ███████████ 100%
+Learning Mode: ACTIVE
+Code Intelligence: ENABLED
+Project Builder: ONLINE
+```
+
+---
+
+# 🌍 3D Developer Globe
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DRKNETKING&theme=github_dark"/>
+
+</p>
 
 ---
 
@@ -78,7 +104,27 @@ System Ready 🚀
 
 ---
 
-# 🐍 Contribution Snake Animation
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DRKNETKING&theme=react-dark"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=DRKNETKING&theme=radical&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
 
 <p align="center">
 
@@ -88,14 +134,14 @@ System Ready 🚀
 
 ---
 
-# 🎮 Interactive Developer Badges
+# 🎮 Developer Badges
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript"/>
-<img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react"/>
-<img src="https://img.shields.io/badge/Style-Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss"/>
-<img src="https://img.shields.io/badge/Backend-NodeJS-green?style=for-the-badge&logo=node.js"/>
+<img src="https://img.shields.io/badge/JavaScript-Developer-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/React-Developer-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/TailwindCSS-UI%20Designer-38bdf8?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/NodeJS-Backend-green?style=for-the-badge&logo=node.js"/>
 
 </p>
 
@@ -132,11 +178,15 @@ System Ready 🚀
 ---
 
 <p align="center">
-⚡ Code • Build • Innovate • Repeat ⚡
+
+⚡ Code • Build • Learn • Innovate ⚡
+
 </p>
 
 <!-- FOOTER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=140&section=footer"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=150&section=footer"/>
+
 </p>
