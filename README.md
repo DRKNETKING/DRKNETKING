@@ -1,28 +1,28 @@
-<!-- CYBER BANNER -->
+<!-- NASA STYLE BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9f,100:000000&height=250&section=header&text=DRKNETKING&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=260&section=header&text=DRKNETKING%20DEVELOPER&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- TYPING EFFECT -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FFAA&size=30&center=true&vCenter=true&width=900&lines=Initializing+Developer+System...;Habib+Hasibuan;Full+Stack+Developer;Cyber+Security+Enthusiast;Building+Modern+Web+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&size=28&center=true&vCenter=true&width=900&lines=Initializing+Developer+System...;Habib+Hasibuan;Full+Stack+Web+Developer;Cyber+Security+Enthusiast;Building+Modern+Web+Applications"/>
 </p>
 
 ---
 
-# 🤖 AI Developer Profile
+# 🚀 AI Developer Profile
 
-```bash
+```bash id="q2x8st"
 > PROFILE.START
 
 Name: Habib Hasibuan
 Username: DRKNETKING
-Role: Full Stack Web Developer
+Role: Full Stack Developer
 Location: Indonesia
 Focus: Web Application Development
-Learning: React | Node.js | Tailwind
+Tech: JavaScript | React | NodeJS
 Status: Active
 
 > PROFILE.END
@@ -30,9 +30,9 @@ Status: Active
 
 ---
 
-# 💻 Hacker Terminal
+# 💻 Developer Terminal
 
-```bash
+```bash id="w8drk1"
 > boot.system()
 
 Loading modules...
@@ -43,23 +43,23 @@ Loading modules...
 ✔ React
 ✔ NodeJS
 ✔ TailwindCSS
-✔ Git
 ✔ API Development
+✔ Git Version Control
 
 System Online 🚀
 ```
 
 ---
 
-# 🧠 AI Neural Network Status
+# 🧠 AI Neural Network
 
-```bash
+```bash id="b9r3p4"
 Neural Engine
 
-Nodes Connected: ██████████████ 100%
+Nodes Connected: ███████████████ 100%
 Learning Mode: ACTIVE
-AI Assistance: ENABLED
-Coding Mode: ONLINE
+AI Coding Assistant: ENABLED
+Innovation Level: HIGH
 ```
 
 ---
@@ -84,13 +84,13 @@ Coding Mode: ONLINE
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DRKNETKING&show_icons=true&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=DRKNETKING&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRKNETKING&layout=compact&theme=radical&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DRKNETKING&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -100,13 +100,13 @@ Coding Mode: ONLINE
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com/?user=DRKNETKING&theme=radical&hide_border=true"/>
+<img src="https://streak-stats.demolab.com/?user=DRKNETKING&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📈 Contribution Activity Graph
+# 📈 Contribution Activity
 
 <p align="center">
 
@@ -120,7 +120,7 @@ Coding Mode: ONLINE
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DRKNETKING&theme=radical&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=DRKNETKING&theme=algolia&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -133,6 +133,30 @@ Coding Mode: ONLINE
 <img src="https://github.com/DRKNETKING/DRKNETKING/blob/output/github-contribution-grid-snake.svg"/>
 
 </p>
+
+---
+
+# 🧩 Featured Projects
+
+| Project                    | Tech             | Description                       |
+| -------------------------- | ---------------- | --------------------------------- |
+| Employee Management System | PHP + MySQL      | Web system for managing employees |
+| Top Up Game Website        | React + Tailwind | Modern gaming top-up platform     |
+| Parking Management System  | JavaScript       | Real-time parking monitoring      |
+| Academic Web App           | Full Stack       | Campus academic simulation system |
+
+---
+
+# 🎯 Developer Goals
+
+```bash id="s5g4q9"
+Goals
+
+✔ Build Modern Web Applications
+✔ Share Programming Tutorials
+✔ Learn Advanced Backend Development
+✔ Contribute to Open Source
+```
 
 ---
 
@@ -149,25 +173,14 @@ Coding Mode: ONLINE
 
 ---
 
-# 🧩 Featured Projects
+# 📡 Coding Activity
 
-| Project                   | Description              |
-| ------------------------- | ------------------------ |
-| Web App Dashboard         | Modern admin dashboard   |
-| Top Up Game Website       | React + Tailwind UI      |
-| Employee Management       | Full stack web system    |
-| Parking Management System | Real-time parking system |
-
----
-
-# 📡 Live Coding Status
-
-```bash
+```bash id="0e1x0p"
 Current Activity
 
-Building Web Applications
+Developing Web Applications
 Recording Programming Tutorials
-Exploring New Technologies
+Learning New Technologies
 ```
 
 ---
@@ -196,7 +209,7 @@ Exploring New Technologies
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=DRKNETKING&label=PROFILE+VIEWS&color=brightgreen&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=DRKNETKING&label=PROFILE+VIEWS&color=blue&style=for-the-badge"/>
 
 </p>
 
@@ -204,10 +217,10 @@ Exploring New Technologies
 
 <p align="center">
 
-⚡ Code • Build • Innovate • Repeat ⚡
+🚀 Build • Learn • Innovate • Repeat 🚀
 
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff9f&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=150&section=footer"/>
 </p>
