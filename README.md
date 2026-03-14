@@ -208,9 +208,7 @@ Learning New Technologies
 # 👀 Profile Visitors
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=DRKNETKING&label=PROFILE+VIEWS&color=blue&style=for-the-badge"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=DRKNETKING&theme=onedark&no-frame=true&margin-w=10"/>
 </p>
 
 ---
