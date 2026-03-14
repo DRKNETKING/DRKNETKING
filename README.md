@@ -1,37 +1,47 @@
-<!-- BANNER -->
+<!-- MATRIX HACKER BANNER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=200&section=header&text=Habib%20Hasibuan&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:000000&height=220&section=header&text=DRKNETKING&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <!-- TYPING ANIMATION -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=Welcome+To+My+GitHub+Profile;DRKNETKING;Web+Developer;Cyber+Security+Enthusiast;Building+Modern+Web+Projects"/>
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=Initializing+AI+Developer+Profile...;Habib+Hasibuan;Full+Stack+Web+Developer;Cyber+Security+Enthusiast;Building+Modern+Web+Applications"/>
 </p>
 
 ---
 
-# 💻 Terminal Profile
+# 🤖 AI Developer Profile
 
-```bash
-> whoami
-Habib Hasibuan
+```bash id="yd6uhs"
+> AI_PROFILE_START
+Name: Habib Hasibuan
+Username: DRKNETKING
+Role: Full Stack Developer
+Location: Indonesia
+Speciality: Web Applications
+Learning: React | Node | Tailwind
+Status: Building Projects
+> AI_PROFILE_END
+```
 
-> username
-DRKNETKING
+---
 
-> role
-Web Developer
+# 💻 Hacker Terminal
 
-> location
-Indonesia
+```bash id="6q9xrf"
+> system.boot()
 
-> focus
-Full Stack Web Development
+Loading modules...
+✔ HTML
+✔ CSS
+✔ JavaScript
+✔ React
+✔ NodeJS
+✔ TailwindCSS
 
-> currently_learning
-React.js | Node.js | Tailwind CSS
+System Ready 🚀
 ```
 
 ---
@@ -68,11 +78,24 @@ React.js | Node.js | Tailwind CSS
 
 ---
 
-# 🐍 Contribution Snake
+# 🐍 Contribution Snake Animation
 
 <p align="center">
 
 <img src="https://github.com/DRKNETKING/DRKNETKING/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🎮 Interactive Developer Badges
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Code-JavaScript-yellow?style=for-the-badge&logo=javascript"/>
+<img src="https://img.shields.io/badge/Framework-React-blue?style=for-the-badge&logo=react"/>
+<img src="https://img.shields.io/badge/Style-Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss"/>
+<img src="https://img.shields.io/badge/Backend-NodeJS-green?style=for-the-badge&logo=node.js"/>
 
 </p>
 
@@ -98,7 +121,7 @@ React.js | Node.js | Tailwind CSS
 
 ---
 
-# 👀 Profile Views
+# 👀 Profile Visitors
 
 <p align="center">
 
@@ -109,11 +132,11 @@ React.js | Node.js | Tailwind CSS
 ---
 
 <p align="center">
-⚡ Code • Build • Learn • Repeat ⚡
+⚡ Code • Build • Innovate • Repeat ⚡
 </p>
 
 <!-- FOOTER -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00ff00&height=140&section=footer"/>
 </p>
